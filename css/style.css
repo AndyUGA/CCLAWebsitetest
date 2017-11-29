@@ -1502,6 +1502,8 @@ img.author-box-image {
 
 #content-wrapper section {
   padding-top: 60px;
+  padding-left: 20px;
+  padding-right: 20px;
   padding-bottom: 60px;
 }
 
