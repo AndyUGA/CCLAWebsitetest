@@ -1,4 +1,4 @@
-# Chinese Culture and Language Association 
+# Chinese Culture and Language Association
 
 This is the website for the University of Georiga's Chinese Cutlure and Language Association 
 
