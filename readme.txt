@@ -1,4 +1,5 @@
-# Chinese Culture and Language Association
+
+Chinese Culture and Language Association Club 
 
 This is the website for the University of Georiga's Chinese Cutlure and Language Association 
 
@@ -6,4 +7,4 @@ The website displays the goals and value of the club and also provides informati
 
 Live version of website:
 
-[Chinese Culture and Langauge Association](http://ccla.uga.edu)
+Chinese Culture and Langauge Association - (http://ccla.uga.edu)
